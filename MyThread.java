@@ -7,6 +7,7 @@ class MyThread extends Thread {
     public void run() {
         System.out.println("running...");
         System.out.println("running....new 1");
+        System.out.println("SAUFI");
     }
 
     public static void main(String args[]) {
